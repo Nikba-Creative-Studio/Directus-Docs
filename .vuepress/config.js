@@ -3,7 +3,7 @@ module.exports = {
 	 * Ref：https://v1.vuepress.vuejs.org/config/#title
 	 */
 	title: "Directus Docs",
-	base: "/Directus-Docs/",
+	//base: "/Directus-Docs/",
 	/**
 	 * Ref：https://v1.vuepress.vuejs.org/config/#description
 	 */
