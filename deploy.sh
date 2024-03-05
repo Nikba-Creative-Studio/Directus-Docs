@@ -20,5 +20,5 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Nikba-Creative-Studio/Directus-Docs.git master:gh-pages
+git push -f git@github.com:Nikba-Creative-Studio/Directus-Docs.git main:gh-pages
 cd -
